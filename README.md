@@ -28,3 +28,5 @@ kNN, LogisticRegression, DesisionTreeClassifier, GradientBoostingClassifier, Ran
 У моделей метода опорных векторов (SVC) и логистической регрессии (LogisticRegression) метрика качества AUC-ROC получилась соизмеримой с моделью градиентного бустинга деревьев.<br><br>
 
 ![alt text](https://github.com/GermanYanchenko/ClassicML/blob/main/sample/metric.png?raw=true)
+<br>
+![alt text](https://github.com/GermanYanchenko/ClassicML/blob/main/sample/ML_classic2.png?raw=true)
